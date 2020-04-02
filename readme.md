@@ -7,7 +7,8 @@
 ### Connection to MongoDB compass
 * New Connection
 * Cluster -> CONNECT -> Connect your application -> copy the string in "Connection String Only"
-
+* Connect via Python
+	- mongodb://gjgg:a1b2c3@mflix-wo96r.gcp.mongodb.net/test?retryWrites=true&w=majority
 
 
 ### 以下才是正確上傳csv.file指令, Altas 藏在 "Command and Line Tools" 裡面
